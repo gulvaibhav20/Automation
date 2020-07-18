@@ -1,8 +1,8 @@
-# Automation
+# Automation :hugs:
 
 This repository contains Python Scripts that are used to automate boring stuff with Python.
 
-## Contents:
+## Contents: 
 
 - XBox Game Bar Recordings Auto-rename Script
 
