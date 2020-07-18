@@ -6,7 +6,7 @@ This repository contains Python Scripts that are used to automate boring stuff w
 
 - XBox Game Bar Recordings Auto-rename Script
 
-### Getting Started
+## Getting Started :partying_face:
 
 Just clone this repository on your local system and run the scripts.
 Have Fun !
