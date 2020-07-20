@@ -16,7 +16,6 @@ Just "clone" this repo and create word clouds !!!
 Text input source: https://www.gutenberg.org/files/2600/2600-h/2600-h.htm
 
 ![Word Cloud](https://github.com/gulvaibhav20/Automation/blob/master/Word%20Cloud/Word_cloud.jpg)
-**Word Cloud**
 
 ### Prerequisites
 
