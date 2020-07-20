@@ -5,6 +5,7 @@ This repository contains Python Scripts that are used to automate boring stuff w
 ## Contents: 
 
 - XBox Game Bar Recordings Auto-rename Script
+- Word Cloud
 
 ## Getting Started :partying_face:
 
@@ -13,4 +14,4 @@ Have Fun !
 
 ### Prerequisite
 
-Python must be installed on your system
+Python must be installed on your system, along with several libraries as per requirements of project.
