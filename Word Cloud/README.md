@@ -1,4 +1,4 @@
-# Word Cloud 
+# Word Cloud  :abc::cloud:
 
 This project is used to create word clouds from text given as input.
 
