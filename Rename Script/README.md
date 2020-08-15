@@ -23,6 +23,8 @@ Required Python Libraries:
 > **In my case -** Recordings were stored as "Title_of_video - Google Chrome - Date - Time.mp4"
 and i wish to save recordings as "Title.mp4"
 
+ **NOTE:** The phrase to be deleted must be present at the end of the filename.
+
 **3.** Run the python script from terminal (or by clicking python file directly) and add the inputs required.
 
 **4. Inputs :**
